@@ -1,0 +1,7 @@
+{
+  "output": "combined.pdf",
+  "sequence": [
+    {"source": "PDF1", "pages": [1, 3]},
+    {"source": "PDF2", "pages": [1, 2]}
+  ]
+}
